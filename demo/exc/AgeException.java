@@ -23,7 +23,6 @@ public class AgeException {
         { 
             	System.out.println();
             	System.out.println("XYZmatrimony.com");
-            	System.out.println();
             	
         }
         sc.close();
